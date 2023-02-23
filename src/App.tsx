@@ -31,7 +31,7 @@ export default function App() {
         <section className="flex">
           <img
             src="./site-image.png"
-            alt="Fondo"
+            alt="Background image"
             className="min-h-[calc(100vh-208px)] object-cover"
           />
         </section>
